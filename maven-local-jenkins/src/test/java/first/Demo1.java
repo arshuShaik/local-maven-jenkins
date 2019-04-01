@@ -6,7 +6,7 @@ public class Demo1 {
 	@Test
 	public void ttt() {
 		
-		System.out.println("running");
+		System.out.println("dev is running");
 	}
 
 }
