@@ -6,7 +6,7 @@ public class Demo1 {
 	@Test
 	public void ttt() {
 		
-		System.out.println("dev is running");
+		System.out.println("today is friday");
 	}
 
 }
